@@ -1,0 +1,5 @@
+C:\Users\admin\Projects\Visual Studio 2010\Projects\PaginationSQL\PaginationSQL\bin\PaginationSQL.dll
+C:\Users\admin\Projects\Visual Studio 2010\Projects\PaginationSQL\PaginationSQL\bin\PaginationSQL.pdb
+C:\Users\admin\Projects\Visual Studio 2010\Projects\PaginationSQL\PaginationSQL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\admin\Projects\Visual Studio 2010\Projects\PaginationSQL\PaginationSQL\obj\Debug\PaginationSQL.dll
+C:\Users\admin\Projects\Visual Studio 2010\Projects\PaginationSQL\PaginationSQL\obj\Debug\PaginationSQL.pdb
