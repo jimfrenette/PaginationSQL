@@ -9,14 +9,14 @@ GO
 USE [Chinook]
 GO
 
-/****** Object:  StoredProcedure [dbo].[sp_ArtistsByPage]    Script Date: 02/06/2011 14:45:47 ******/
+/****** Object:  StoredProcedure [dbo].[ch_ArtistsByPage]    Script Date: 02/06/2011 14:45:47 ******/
 SET ANSI_NULLS ON
 GO
 
 SET QUOTED_IDENTIFIER ON
 GO
 
-CREATE PROCEDURE [dbo].[sp_ArtistsByPage]
+CREATE PROCEDURE [dbo].[ch_ArtistsByPage]
 (
 	@pageSize INT,
 	@pageNumber INT
