@@ -1,9 +1,9 @@
 USE [Chinook]
 GO
 
-/****** Object:  StoredProcedure [dbo].[sp_ArtistsByPage]    Script Date: 02/06/2011 14:45:47 ******/
-IF  EXISTS (SELECT * FROM sys.objects WHERE object_id = OBJECT_ID(N'[dbo].[sp_ArtistsByPage]') AND type in (N'P', N'PC'))
-DROP PROCEDURE [dbo].[sp_ArtistsByPage]
+/****** Object:  StoredProcedure [dbo].[ch_ArtistsByPage]    Script Date: 02/06/2011 14:45:47 ******/
+IF  EXISTS (SELECT * FROM sys.objects WHERE object_id = OBJECT_ID(N'[dbo].[ch_ArtistsByPage]') AND type in (N'P', N'PC'))
+DROP PROCEDURE [dbo].[ch_ArtistsByPage]
 GO
 
 USE [Chinook]
