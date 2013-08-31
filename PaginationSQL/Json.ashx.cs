@@ -71,7 +71,7 @@ namespace PaginationSQL
         public DataSet GetArtistsByPage(int pageSize, int pageNumber)
         {
             SqlConnection con = new SqlConnection(ChinookConnection);
-            SqlCommand cmd = new SqlCommand("sp_ArtistsByPage", con);
+            SqlCommand cmd = new SqlCommand("ch_ArtistsByPage", con);
             cmd.CommandType = CommandType.StoredProcedure;
             cmd.Parameters.AddWithValue("@pageSize", pageSize);
             cmd.Parameters.AddWithValue("@pageNumber", pageNumber);
